@@ -5,11 +5,12 @@ Data Science made Cheaper
 > The site is deployed at https://the-data-labs.vercel.app
 
 ## Team
-1. Sai Praneeth Diddigam
-2. Ganesh Kolavennu
-3. Pavan
-4. Eswar
-5. Muskaan
+1. Muskaan Mahindrakar
+2. Sai Praneeth Diddigam
+3. Ganesh Kolavennu
+4. Pavan
+5. Eswar
+
 
 ## Tech
 1. Next.js
