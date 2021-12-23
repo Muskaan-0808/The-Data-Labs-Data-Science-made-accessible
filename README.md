@@ -17,13 +17,12 @@ Data Science made Cheaper
 ![S4](https://user-images.githubusercontent.com/86561435/147256723-23a0e9c0-7a5a-4148-b04f-c9a68da0124f.png)
 
 
-## Team!
+## Team
 1. Muskaan Mahindrakar
 2. Sai Praneeth Diddigam
 3. Ganesh Kolavennu
 4. Pavan
 5. Eswar
-
 
 ## Tech
 1. Next.js
